@@ -1,6 +1,16 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
