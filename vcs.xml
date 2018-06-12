@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/alinakornilo/gameHeroes.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Eduard-Rudko/rozetka-test-automation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Git" />
